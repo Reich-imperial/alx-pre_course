@@ -1,1 +1,1 @@
-My second readme
+Learning is fun
